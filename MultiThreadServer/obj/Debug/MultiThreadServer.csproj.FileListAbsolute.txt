@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe.config
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.pdb
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.exe
+c:\users\admin\source\repos\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.pdb
